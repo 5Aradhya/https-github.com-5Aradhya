@@ -1,4 +1,4 @@
-# https-github.com-5Aradhya# 💫 About Me:
+# 💫 About Me:
 ## 👩‍💻 About Me<br><br>Hi, I'm Aradhya Uttam, a final-year B.Tech Computer Science student passionate about software development and problem-solving.<br><br>💻 I have a strong interest in Java, Spring Boot, MySQL, and Full Stack Development. I enjoy building practical applications and exploring new technologies.<br><br>🚀 I have completed projects including a Face Recognition System, Hospital Management System, Quiz Application, and Personal Portfolio Website. Currently, I'm working on CreditBridge, an AI-based loan approval and credit-sharing project.<br><br>🌱 I'm continuously improving my programming skills, learning new technologies, and practicing Data Structures and Algorithms.<br><br>🎯 My goal is to become a skilled software developer and contribute to meaningful, real-world projects.<br><br>🤝 I'm open to learning opportunities, internships, and collaborations on exciting software development projects.
 
 
